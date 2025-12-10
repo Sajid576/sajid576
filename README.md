@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid576&label=Profile%20views&color=0e75b6&style=flat" alt="sajid576" /> </p>
 
-- ⚡ A forward-thinking backend focused full stack software engineer with 3 years of expertise in developing web-based and mobile based solutions.
+- ⚡ A forward-thinking backend focused full stack software engineer with 5 years of expertise in developing web-based and mobile based solutions.
 - ⚡ Experienced in practicing Agile Development
 - Experienced in building distributed services, APIs, features etc. writing efficient, maintainable and reusable modules and UI components
 - ⚡ Likes to code review
